@@ -64,7 +64,7 @@ The project replicates the Gemini chat interface, providing a seamless conversat
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <br>
-<a href="https://twitter.com/TheTweetOfSKR">
+<a href="https://x.com/Premkum82289571?s=08">
   <img align="left" alt="Prem Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prem-kumar-thda/">
