@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Prem Kumar Thoda, Full Stack Web Developer :computer:<br>
+  <br> I'm Prem Kumar, Full Stack Web Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -32,6 +32,17 @@
 - :man_technologist: Gemini Clone was created gives an experience
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+## 💡 Highlighted Projects
+
+### 🚀 Gemini Clone – AI Chatbot Web Application  
+🔗 **Live Demo:** [Gemini Clone](https://geminiclone-premkumars-projects-44a23f6b.vercel.app/)  
+📌 **Description:** Developed a responsive and interactive Gemini Clone using modern web technologies.  
+The project replicates the Gemini chat interface, providing a seamless conversational experience with AI integration.
+
+### 🔧 Technologies Used:
+- 🖥️ **Frontend:** HTML, CSS, JavaScript, React.js  
+- 🔗 **APIs:** Integrated AI-based APIs for chat functionality  
+
 
 
 
